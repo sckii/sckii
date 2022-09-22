@@ -15,7 +15,7 @@ class ComputerScientist:
         print("Hope you enjoy my work.")
 
 
-me = SoftwareEngineer()
+me = ComputerScientist()
 me.say_hi()
 ```
 ## 🔧 Technologies & Tools
